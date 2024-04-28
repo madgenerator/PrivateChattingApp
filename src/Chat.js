@@ -10,9 +10,9 @@
 //9. nextLine : spanMessage.style.wordSpacing
 //10. 말풍선 : 라운드 네모 설정
 //11. 초기에 아이디 입력
-
 //12. Profile Image Setup,
-//sendMessage : Profile: profileNum,
+//sendMessage : Profile: profileNum
+
 //13. ID 중복 체크
 //14. 인원 수 제한
 
